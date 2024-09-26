@@ -1,0 +1,44 @@
+{
+  "name": "mqtt4idiamant",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Bubendorf iDiamant mqtt Interaction via NetatmoAPI",
+  "main": "idiamant-mqtt.js",
+  "scripts": {
+    "lint": "eslint .",
+    "fixlint": "eslint --fix .",
+    "start": "node idiamant-mqtt.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WoCha-FR/mqtt4idiamant.git"
+  },
+  "keywords": [
+    "bubendorff",
+    "idiamant",
+    "netatmo",
+    "mqtt"
+  ],
+  "author": "WoCha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WoCha-FR/mqtt4idiamant/issues"
+  },
+  "homepage": "https://github.com/WoCha-FR/mqtt4idiamant#readme",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "debug-level": "^3.2.0",
+    "express": "^4.21.0",
+    "express-tl": "^1.1.0",
+    "ip": "^2.0.1",
+    "is-online": "^11.0.0",
+    "lodash": "^4.17.21",
+    "mqtt": "^5.10.1",
+    "write-file-atomic": "^6.0.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.11.1",
+    "eslint": "^9.11.1",
+    "globals": "^15.9.0"
+  }
+}
