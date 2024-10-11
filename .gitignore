@@ -131,4 +131,4 @@ dist
 
 # MyFiles
 state.json
-config.json
+config.json.dev
