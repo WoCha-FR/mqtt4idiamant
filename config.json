@@ -1,0 +1,8 @@
+{
+  "mqtt_topic": "idiamant",
+  "mqtt_url": "mqtt://127.0.0.1:1883",
+  "mqtt_verifcert": false,
+  "clientId": "",
+  "clientSecret": "",
+  "polling": 10
+}
