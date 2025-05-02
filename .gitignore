@@ -133,3 +133,4 @@ dist
 state.json
 config.json.dev
 config.json.vide
+state.json.dev
