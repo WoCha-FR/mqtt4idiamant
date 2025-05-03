@@ -4,5 +4,5 @@
   "mqtt_verifcert": false,
   "clientId": "",
   "clientSecret": "",
-  "polling": 10
+  "polling": 15
 }
