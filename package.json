@@ -1,6 +1,6 @@
 {
   "name": "mqtt4idiamant",
-  "version": "0.5.6",
+  "version": "1.0.0",
   "type": "module",
   "description": "Bubendorf iDiamant mqtt Interaction via NetatmoAPI",
   "main": "idiamant-mqtt.js",
@@ -38,7 +38,7 @@
   },
   "devDependencies": {
     "@eslint/js": "^9.11.1",
-    "eslint": "^9.25.1",
+    "eslint": "^9.26.0",
     "globals": "^16.0.0"
   }
 }
